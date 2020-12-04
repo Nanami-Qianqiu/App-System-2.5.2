@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App System 2.5.2</string>
+    <string name="user_name">Username</string>
+    <string name="pass_word">Password</string>
+    <string name="button_name">Login</string>
+    <string name="correct">Correct account name and password.</string>
+    <string name="wrong">Wrong account name or password.</string>
+
+</resources>
